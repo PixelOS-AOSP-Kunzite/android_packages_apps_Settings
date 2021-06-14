@@ -23,4 +23,7 @@
     <!-- Expressive QR -->
     <dimen name="wifi_sharing_qrcode_fragment_margin_size">23dp</dimen>
     <dimen name="wifi_sharing_qrcode_fragment_size">264dp</dimen>
+
+    <!-- Whether to show peak refresh rate in display settings -->
+    <bool name="config_show_peak_refresh_rate_switch">false</bool>
 </resources>
