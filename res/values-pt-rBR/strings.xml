@@ -3527,8 +3527,8 @@
     <string name="enhanced_4g_lte_mode_title" msgid="6624700245232361149">"VoLTE"</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling" msgid="7066009898031465265">"Chamada avançada"</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling" msgid="7445853566718786195">"Chamada 4G"</string>
-    <string name="enhanced_4g_lte_mode_summary" msgid="1067066329756036427">"Usar serviços de LTE para melhorar chamadas de voz (recomendado)"</string>
-    <string name="enhanced_4g_lte_mode_summary_4g_calling" msgid="2575004054914178405">"Usa serviços 4G para melhorar chamadas de voz (recomendado)"</string>
+    <string name="enhanced_4g_lte_mode_summary" msgid="1067066329756036427">"Usar o serviço LTE para melhorar chamadas de voz (recomendado)"</string>
+    <string name="enhanced_4g_lte_mode_summary_4g_calling" msgid="2575004054914178405">"Usa o serviço 4G para melhorar chamadas de voz (recomendado)"</string>
     <string name="nr_advanced_calling_title" msgid="6106286679535355939">"Vo5G"</string>
     <string name="nr_advanced_calling_summary" msgid="6926192539172030330">"Usar o 5G em chamadas de voz"</string>
     <string name="contact_discovery_opt_in_title" msgid="8708034790649773814">"Enviar contatos para a operadora"</string>
