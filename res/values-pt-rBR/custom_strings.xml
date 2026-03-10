@@ -282,6 +282,12 @@
     <string name="doze_enabled_title">Tela ambiente</string>
     <string name="doze_enabled_summary">Ativar ou não a funcionalidade do pacote doze</string>
 
+    <!-- Min refresh rate -->
+    <string name="min_refresh_rate_title">Taxa mínima de atualização</string>
+
+    <!-- Max refresh rate -->
+    <string name="max_refresh_rate_title">Taxa máxima de atualização</string>
+
     <!-- Refresh rate -->
     <string name="refresh_rate_title">Taxa de atualização</string>
     <string name="refresh_rate_summary_vrr_off">%d Hz</string>
