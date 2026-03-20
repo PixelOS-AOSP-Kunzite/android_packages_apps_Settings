@@ -367,4 +367,21 @@
     <string name="language_picker_page">Página do seletor de idiomas</string>
     <string name="search_region">Pesquisar regiões</string>
     <string name="search_region_page">Página de pesquisa de regiões</string>
+
+    <!-- Expressive QR -->
+    <string name="wifi_qr_code_animation_control">Pausar a animação</string>
+
+    <!-- System Updates -->
+    <string name="play_application_detail_indication_summary">Verificar se há atualizações</string>
+    <string name="play_application_update_entry_title">Atualizações de apps</string>
+    <string name="software_update_banner_checking">Verificando se há atualizações…</string>
+    <string name="software_update_banner_up_to_date">Seu dispositivo está atualizado</string>
+    <string name="software_update_banner_update_available">Atualizações disponíveis</string>
+    <string name="software_update_can_be_updated_header">Deixe seu Pixel ainda melhor</string>
+    <string name="software_update_entry_title">Atualizações de software</string>
+    <string name="software_update_pending_update_summary">Atualização pendente</string>
+    <string name="software_update_settings_v2_purpose">Oferece um painel centralizado para os usuários monitorarem e iniciarem atualizações no sistema operacional, nos componentes do sistema Google Play e nos aplicativos instalados, garantindo a segurança e o desempenho do dispositivo.</string>
+    <string name="software_update_up_to_date_header">Seu Pixel está atualizado</string>
+    <string name="software_update_up_to_specific_date_summary">Atualizado para %1$s</string>
+    <string name="system_update_entry_title">Atualização do sistema</string>
 </resources>
