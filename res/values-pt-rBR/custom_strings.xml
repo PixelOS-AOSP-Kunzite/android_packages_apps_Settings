@@ -334,6 +334,10 @@
     <string name="pif_data_title">Configurar PIF</string>
     <string name="pif_data_summary">Configurar PIF usado para falsificar propriedades para o GMS e Play Store. Toque em Excluir para reverter para os padrões dinâmicos.</string>
 
+    <!-- Spoofing toggle -->
+    <string name="cert_overlay_title">Simular propriedades certificadas</string>
+    <string name="cert_overlay_summary">Simula propriedades certificadas do PI para o GMS\nRequer uma reinicialização para aplicar</string>
+
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Som de captura de tela</string>
 
