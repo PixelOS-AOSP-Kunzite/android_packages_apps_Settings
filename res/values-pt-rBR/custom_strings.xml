@@ -294,6 +294,27 @@
     <!-- Battery saver refresh rate -->
     <string name="battery_saver_refresh_rate_title">Reduzir taxa de atualização</string>
     <string name="battery_saver_refresh_rate_summary">Usar 60 Hz de taxa de atualização da tela para economizar energia quando o Economizador de bateria estiver ativo</string>
+    
+    <!-- Battery Saver -->
+    <string name="adaptive_battery_entry_purpose">Permite que os usuários ativem ou desativem a Bateria Adaptável, que otimiza o uso da bateria pelos aplicativos com base nos padrões de uso do telefone para prolongar a duração da bateria.</string>
+    <string name="adaptive_battery_management_enabled_purpose">Indica se a Bateria Adaptável está ativada para otimizar o uso da bateria com base nos padrões de uso dos aplicativos.</string>
+    <string name="adaptive_battery_switch_title">Usar Bateria Adaptável</string>
+    <string name="basic_battery_saver_title">Economia de bateria padrão</string>
+    <string name="basic_battery_saver_summary">Limita efeitos visuais e atividades em segundo plano. Ativa o tema escuro, caso ainda não esteja ativado.</string>
+    <string name="basic_battery_saver_purpose">Ativa o modo de Economia de bateria padrão, que limita efeitos visuais e atividades em segundo plano</string>
+    <string name="battery_saver_reminder_category">Lembretes</string>
+    <string name="battery_saver_reminder_switch_title">Lembretes da Economia de bateria</string>
+    <string name="battery_saver_reminder_switch_summary">Receba lembretes quando a bateria estiver fraca</string>
+    <string name="battery_saver_schedule_category">Programação</string>
+    <string name="battery_saver_schedule_switch_title">Ativar com base no nível da bateria</string>
+    <string name="battery_saver_schedule_switch_summary">A Economia de bateria é ativada quando a bateria atinge o nível definido por você</string>
+    <string name="battery_saver_schedule_purpose">Permite que os usuários configurem programações para a Economia de bateria, incluindo a ativação automática com base na porcentagem da bateria e a desativação automática ao carregar, além de gerenciar lembretes de notificação de bateria fraca.</string>
+    <string name="battery_schedule_title">Programação e lembretes</string>
+    <string name="battery_schedule_summary">Gerencie quando a Economia de bateria é ativada</string>
+    <string name="extreme_battery_saver_title">Economia extrema de bateria</string>
+    <string name="extreme_battery_saver_summary">Inclui todas as alterações listadas acima. Também pausa aplicativos não essenciais e suas notificações.</string>
+    <string name="extreme_battery_saver_purpose">Ativa o modo de Economia extrema de bateria, que pausa aplicativos e notificações não essenciais</string>
+    <string name="low_power_mode_reminder_enabled_purpose">Indica se deve receber lembretes de notificação quando a bateria estiver fraca</string>
 
     <!-- Preference and settings suggestion title text for screen off UDFPS [CHAR LIMIT=60]-->
     <string name="ambient_display_screen_off_udfps_title">Impressão digital sempre ativa</string>
@@ -333,6 +354,10 @@
     <!-- Pif Data -->
     <string name="pif_data_title">Configurar PIF</string>
     <string name="pif_data_summary">Configurar PIF usado para falsificar propriedades para o GMS e Play Store. Toque em Excluir para reverter para os padrões dinâmicos.</string>
+
+    <!-- Spoofing toggle -->
+    <string name="cert_overlay_title">Simular propriedades certificadas</string>
+    <string name="cert_overlay_summary">Simula propriedades certificadas do PI para o GMS\nRequer uma reinicialização para aplicar</string>
 
     <!-- Screenshot shutter -->
     <string name="screenshot_shutter_sound_title">Som de captura de tela</string>
