@@ -77,6 +77,15 @@
             settings:controller="com.android.settings.display.BatteryPercentagePreferenceController" />
     </com.android.settingslib.widget.UntitledPreferenceCategory>
 
+    <!-- Battery information -->
+    <Preference
+            android:key="battery_info"
+            android:order="43"
+            android:title="@string/battery_info"
+            android:fragment="com.android.settings.deviceinfo.batteryinfo.BatteryInfoFragment"
+            settings:keywords="@string/keywords_battery_info"
+            settings:controller="com.android.settings.deviceinfo.batteryinfo.BatteryInfoPreferenceController"/>
+
     <Preference
         android:key="charging_control"
         android:title="@string/charging_control_title"
